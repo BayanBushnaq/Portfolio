@@ -1,53 +1,49 @@
 {
     "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Jestem Ursula Lopez. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Code Fellows. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+      "description_header": "مرحبا",
+      "description": "👋 أنا بيان بشناق ، مهتمة بتعلم الألة و استخراج المعرفة و الرؤى الخفية منها و استخدامها في تطوير شتى مجالات الحياة  💜",
       "section_name": {
-        "about": "O mnie",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
+        "about": "معلوماتي",
+        "projects": "المشاريع",
+        "skills": "المهارات",
+        "experience": "الخبرة"
       }
     },
     "projects": [
       {
-        "title": "Animal Shelter",
+        "title": "استخراج المعرفة ",
         "startDate": "2020",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
+        "description": " تتمكن خبير البيانات من رؤية الأشياء الحاسمة المخبأة في البيانات ، مثل السلوك والميول والأحداث الشاذة. يسمح لنا الذكاء الاصطناعي ، والتعلم الآلي بشكل حاسم ، بتطبيق مثل هذه الرؤية من أجل الحصول على فهم عميق لأحجام البيانات التي سيكون من المستحيل تحليلها يدويًا.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/machineLearning/m1.jpeg",
+          "images/portfolio/machineLearning/m2.png"
         ],
         "url": "",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "name": "SPSS-modeler"
           },
           {
             "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "name": "Python"
           },
           {
             "class": "devicon-csharp-plain",
-            "name": "C#"
+            "name": "power BI"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
+        "title": "موقع الكتروني يقدم وجبات طعام بوسنية",
+        "startDate": "2022",
+        "description": "مشروع شخصي بهدف التعلم و الدراسة ، كنت مسؤولة فيه عن تصميم موقع الكتروني يقدم وجبات طعام مختلفة باستخدام لغة الجافا سكريبت ",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/Restaurant/resturant.png",
+          "images/portfolio/Restaurant/menu.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/BayanBushnaq/my-restaurant",
         "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
@@ -55,61 +51,58 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+        "title": "نظام خاص بالموظفين ",
+        "startDate": "2022",
+        "description": "موقع الكتروني يقوم بتحديث بيانات الموظفين و تقدير الراتب النهائي لهم بناءا على المستوى الوظيفي ",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/HRproject/HR-management system.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/BayanBushnaq/HR-management-system",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "name": "HTML5"
           },
           {
             "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "name": "JavaScript"
           },
           {
             "class": "devicon-csharp-plain",
-            "name": "C#"
+            "name": "CSS"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - obecnie",
+        "company": "LTUC-ASAC",
+        "title": "مطور برمجيات بلغة بايثون ",
+        "years": "07.2022 - حاليا",
         "mainTech": [
-          "Angular 8/9/10"
+          "python"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "HTML5",
+          "CSS",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          "Angular Material"
+          "REACT"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Stażystka",
-        "years": "01.2018 - 09.2019",
+        "company": "مجموعة طلال أبو غزالة للأبتكار ",
+        "title": "محلل بيانات",
+        "years": "11.2019 - 05.2021",
         "mainTech": [
-          "Angular 7/8"
+          "IBM SPSS-modeler"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "Swagger",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "spss modeler",
+          "power BI",
+          "Python",
+          "Azure",
+          "Arduino"
         ]
       }
     ]
